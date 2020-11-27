@@ -7,4 +7,4 @@ Webscraped URL: https://en.wikipedia.org/wiki/Virginia
 Kent Butler- 
 Seth Butler-Hargett
 Fozeya Chowdhury- Accepted 
-Eric Bulson-
+Eric Bulson- Accepted
